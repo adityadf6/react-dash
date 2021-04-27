@@ -1,0 +1,26 @@
+
+.mapboxgl-map
+{
+    width: 1440px;
+    height: 350px;
+    display: block;
+    border-radius: 25px;
+    margin: 1.5rem;
+    align-items: center;
+    justify-content: center;
+
+}
+
+
+.Healthcard
+{
+    width: 1440px;
+    height: 350px;
+    display: block;
+    border-radius: 2px;
+    margin: 1.5rem;
+    align-items: center;
+    justify-content: center;
+    margin-left: 2rem;
+
+}
